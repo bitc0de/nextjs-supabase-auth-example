@@ -33,8 +33,8 @@ This Next.js project demonstrates how to implement a complete authentication sys
 
 ```bash
 # Clonar el repositorio / Clone the repository
-git clone https://github.com/bitc0de/supabase-nextjs-login.git
-cd supabase-nextjs-login
+git clone https://github.com/bitc0de/nextjs-supabase-auth-example.git
+cd nextjs-supabase-auth-example
 
 # Instalar dependencias / Install dependencies
 npm install
@@ -46,5 +46,6 @@ npm run dev
 ```
 
 Note: Este README principal sirve como punto de entrada. Para instrucciones detalladas, selecciona la documentación en tu idioma preferido arriba.
+
 
 Nota: This main README serves as an entry point. For detailed instructions, select the documentation in your preferred language above.
