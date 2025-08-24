@@ -29,6 +29,9 @@ This Next.js project demonstrates how to implement a complete authentication sys
 
 ✅ Manejo de errores y estados de carga / Error handling and loading states
 
+
+![Screenshot](https://i.ibb.co/k6yWqXT8/image.png)
+
 # ⚡ Inicio Rápido / Quick Start
 
 ```bash
@@ -49,3 +52,4 @@ Note: Este README principal sirve como punto de entrada. Para instrucciones deta
 
 
 Nota: This main README serves as an entry point. For detailed instructions, select the documentation in your preferred language above.
+
