@@ -25,9 +25,17 @@ This Next.js project demonstrates how to implement a complete authentication sys
 ### 1. Clone and install dependencies
 
 ```bash
-git clone <your-repository>
-cd fishiary
+# Clone the repository
+git clone https://github.com/bitc0de/nextjs-supabase-auth-example.git
+cd nextjs-supabase-auth-example
+
+# Install dependencies
 npm install
+
+# Create .env.local with your Supabase credentials
+
+# Run the project
+npm run dev
 ```
 
 ### 2. Configure Supabase (Google sign in)
@@ -623,5 +631,6 @@ It's like having two different phones to call the same place.
 This project is an educational example. If you find errors or want to improve the implementation, contributions are welcome.
 
 ---
+
 
 **Note**: This README is designed to be a complete reference for implementing authentication with Supabase in Next.js. Follow the steps in order and make sure to properly configure all environment variables and Supabase configurations.
